@@ -1,4 +1,2 @@
-# repositorioPublico
-Repositório para fins de estudar e praticar desenvolvimento de Software
-
-Alteração teste.
+# API Google
+Repositório com o desenvolvimento da API do google embarcada em um servidor MCP
