@@ -1,0 +1,18 @@
+{
+    "name": "ablara/composer-busca-cursos-alura",
+    "description": "Projeto para buscar e listar os cursos do Site da ALura",
+    "type": "library",
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Ablara\\ComposerBuscaCursosAlura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anton",
+            "email": "bentorlara@gmail.com"
+        }
+    ],
+    "require": {}
+}
